@@ -1,0 +1,1 @@
+I developed a simple counter program using HTML, CSS, and used JavaScript for the first time. This project allowed me to gain a foundational understanding of core JavaScript concepts, including functions and conditional statements (`if`).This was a great step forward in my coding journey.
